@@ -1,5 +1,5 @@
 # Employee Tracker
-Module 12 - SQL Challenge
+Employee Tracker - SQL 
 
 ![Employee Tracker](employee-tracker.png)
 [Video Demonstration](https://drive.google.com/file/d/1TCa1qN8qcUkPvxT3iuowYtNA8l78Iu2P/view?usp=share_link)
